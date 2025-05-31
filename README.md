@@ -47,15 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tailerodessacity&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tailerodessacity&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: tailerodessacity@gmail.com  
