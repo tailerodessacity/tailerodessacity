@@ -24,6 +24,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### 🛢️ Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
